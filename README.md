@@ -41,7 +41,6 @@ The dataset (esol.csv) contains SMILES strings and aqueous solubility values (lo
 ## Project Structure
 molecular-property-predictor/
 ├── molecular_property_predictor.ipynb # Main Jupyter notebook with code
-├── esol.csv # Dataset file with SMILES and logS values
 ├── README.txt # Project documentation (this file)
 
 ## Author
