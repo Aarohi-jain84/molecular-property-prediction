@@ -21,8 +21,7 @@ Make sure you have Python 3.x installed along with the following libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow rdkit
 
 ## How to Run
-Clone this repository:
-git clone https://github.com/your-username/molecular-property-predictor.git
+Clone this repository.
 
 Open the Jupyter notebook file molecular_property_predictor.ipynb.
 
